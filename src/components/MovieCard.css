@@ -1,0 +1,19 @@
+
+.cards{
+    width: 18rem !important;
+    background-Color:#877b7b;
+    box-shadow: 5px 2px 5px rgb(180, 175, 175);
+}
+.Descript{
+    height: 235px;
+    left: 0;
+    bottom: 0;
+    background-color: rgb(247, 245, 243);
+    text-align: justify;
+    opacity: 0.9;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.btn{
+    box-shadow: 2px 2px 2px rgb(158, 158, 238);
+}
